@@ -18,6 +18,9 @@ Expression level analysis was performed by using Robust Multi array-average(RMA)
 
 ![image](https://github.com/Jyoti-995/Microarray-data-analysis-using-R-package-/assets/123369518/f6b03110-7bb1-49f5-94c7-29229ef721e4)
 
+# Conclusion
+Typically, gene expression profiles from gene arrays don't reliably predict protein expression and functional outcomes due to complex post-transcriptional and post-translational mechanisms. Our study, however, observed consistent patterns in gene and protein expression following AC EF stimulation. Enriched pathways identified by STRING database analysis also revealed similar biological processes, emphasizing the balanced state of epithelial cells during AC EF stimulation. Antibody array data highlighted interconnected signaling events, suggesting electric stimulation, including AC EFs, as a potential regulator for corneal tissue regeneration. Further validation could position it as a therapeutic approach.
+
 
 
 
